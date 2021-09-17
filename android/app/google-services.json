@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407698046983",
+    "firebase_url": "https://wigcity-366c8-default-rtdb.firebaseio.com",
+    "project_id": "wigcity-366c8",
+    "storage_bucket": "wigcity-366c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407698046983:android:d52686ccf2626fd9ff6aa2",
+        "android_client_info": {
+          "package_name": "com.wigcity.app.wigcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407698046983-1idf8res6b8bv01qr18rr364nf4rab0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24UiSH7aRHKAUyEDS9ds7YZZmFDnrPu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407698046983-1idf8res6b8bv01qr18rr364nf4rab0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
